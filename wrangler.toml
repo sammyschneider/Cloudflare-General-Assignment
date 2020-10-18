@@ -1,0 +1,6 @@
+name = "takehome"
+type = "javascript"
+account_id = "2af5dbc891070cabc6240e7c512f52a9"
+workers_dev = true
+route = ""
+zone_id = ""
